@@ -1,0 +1,7 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h1>Hello SharpShooter Bro</h1>
+<p>This is alternative Cydia repo for SS Tool</p>
+</body>
+</html>
