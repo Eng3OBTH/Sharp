@@ -1,6 +1,7 @@
 Package: com.yourepo.gmspack.istec20
 Name: ISTEC 2.0.2
 Version: 2.0.2
+Filename: /com.yourepo.gmspack.istec20.deb
 Architecture: iphoneos-arm
 Description: PLEASE READ TJE DESCRIPTION THANKS
 Author: Aka <gmspack404@protonmail.com>
