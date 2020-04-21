@@ -8,8 +8,8 @@ Author: Aka <gmspack404@protonmail.com>
 Section: Tweaks
 Depends: firmware (>= 5.0), mobilesubstrate
 Maintainer: gmspack <gmspack404@protonmail.com>
-Size: 3498692
-MD5sum: 40354ab0af78be5458f3be4a5eab431b
-SHA1: 282760de0ca470abb5f037be627a0ad90064e417
-SHA256: 9d3cdca45d8583d420cd4710070f2a2fa2768312bcfb68f40a4aa238cbb3b73f
+Size: 3498696
+MD5sum: f1b36dc2eb949e47f926dbb4a776ea43
+SHA1: a6f2846d2270890215a0f85ed7a1bde7eac47f43
+SHA256: 8182b942c73f514fb2fb3422a6a6496bcac0bdb7d182b8a9b4c7f26d9033bf91
 
